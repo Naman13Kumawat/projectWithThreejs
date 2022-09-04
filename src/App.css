@@ -1,0 +1,18 @@
+.container {
+  background-color: lightgray;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.canvas_box {
+  border: 1px solid black;
+  width: 30rem;
+  height: 30rem;
+  margin: auto;
+  border-radius: 10px;
+  background-color: #000;
+}

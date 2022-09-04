@@ -1,0 +1,11 @@
+Model Information:
+* title:	Interesting Donut
+* source:	https://sketchfab.com/3d-models/interesting-donut-e2395a7a4a19416b93b23f62f97f7ae4
+* author:	Dan_man5000 (https://sketchfab.com/Dan_man5000)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Interesting Donut" (https://sketchfab.com/3d-models/interesting-donut-e2395a7a4a19416b93b23f62f97f7ae4) by Dan_man5000 (https://sketchfab.com/Dan_man5000) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
